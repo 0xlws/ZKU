@@ -3,4 +3,4 @@
 # Ballot before screenshot
 ![Before screenshot](https://github.com/0xlws/ZKU/raw/main/assignments/background-assignment/img/Ballot1_before_img.png)
 # Ballot After screenshot
-![After screenshot](https://github.com/0xlws/ZKU/raw/main/assignments/background-assignment/img/Ballot1_before_img.png)
+![After screenshot](https://github.com/0xlws/ZKU/raw/main/assignments/background-assignment/img/Ballot10_after_img.png)
